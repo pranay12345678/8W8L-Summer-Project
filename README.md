@@ -5,10 +5,6 @@
 
 The main aim of this project is to get familiar with different languages and programming models and how they are fundamentally different from one another. 
 *****************************
-***Contribution***: </br>
-- [Harish Adsule](https://github.com/harishss3)
-- [Kartikeya Gupta](https://github.com/kartikcode)
-
 ### *General Concepts*
 
 The following aspects of a language must be kept in mind while using it:
@@ -61,3 +57,8 @@ Following are the tasks given till now:
 
 1.[Python] To implement basic command line utilities. </br>
 2.[Haskell] To implement some simple functions.
+
+************************************
+### Contributed by: </br>
+- [Harish Adsule](https://github.com/harishss3)
+- [Kartikeya Gupta](https://github.com/kartikcode)
