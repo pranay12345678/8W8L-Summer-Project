@@ -44,7 +44,11 @@ The following aspects of a language must be kept in mind while using it:
 
 ************************************
 ### *Haskell*
-
+***About the language*** : Haskell is a purely Functional programming language with inferred, strong and static type discipline.
+Functional programming is very different from Imperative programming in which programs consist of a sequence of commands, which are strictly evaluated one after the other. A functional program is a single expression, which is executed by evaluating the expression. Compared to the traditional programming languages, Haskell allows us to write much shorter and cleaner code. It is also easier to maintain. Another advantage of Haskell is that there are no "side effects", that is, functions cannot change state like changing the contents of a variable. This seems limiting at first glance, but helps to minimise bugs in the code and makes it easy to debug. Haskell follows "lazy" evaluation, which means that it doesn't evaluate or calculate things unless it's really forced to.</br>
+***In this project*** : We will be using the Glasgow Haskell Compiler (GHC) which comes along with the Haskell Platform which also has useful packages included. Apart from the official documentation, we will use the book "Learn You a Haskell for Great Good!" as reference.</br>
+***Links*** : 1) Doc - https://www.haskell.org/documentation/ </br>
+             2) Reference - http://learnyouahaskell.com/chapters
 ************************************
 ### *Scala*
 
