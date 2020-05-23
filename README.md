@@ -50,7 +50,13 @@ Functional programming is very different from Imperative programming in which pr
 ***Relevant Links*** </br>Docs: https://www.haskell.org/documentation/ </br>Reference: http://learnyouahaskell.com/chapters
 ************************************
 ### *Scala*
-
+***About the Language*** </br>
+Scala, developed by Martinn Odersky and his team, is a really cool modification of the legendary Java. It was developed with the main motive of enhancing the scalability of Java as languages like Rails and Python are scalable, but only to an extent. It inherits in itself properties of both, Object Oriented Languages and Functional Languages.
+Scala gives us control over the internal state of the variables by providing two types for variable declaration, var and val, the latter being immutable. It is a statically typed and an extensible programming language.</br></br>
+***In this project***</br>
+The official documentations for Scala were good enough for the team  to understand and appreciate Scala, which is a multiple paradigm language. Apart from the docs, however, we referred the book 'Scala for the Impatient' which covered almost all aspects of the Scala(ble) Language.</br></br>
+***Relevant Links***</br>
+Docs: https://docs.scala-lang.org/tour/tour-of-scala.html </br>
 
 
 *******
@@ -62,6 +68,11 @@ Following are the tasks given till now:
 2.[Haskell] To implement some simple functions.
 
 ************************************
+### Link to Repositories of the Team Members
+- Kartikeya Gupta: https://github.com/kartikcode/8W8L
+
+************************************
 ### Contributed by: </br>
 - [Harish Adsule](https://github.com/harishss3)
 - [Kartikeya Gupta](https://github.com/kartikcode)
+
