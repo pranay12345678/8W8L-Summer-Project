@@ -47,13 +47,13 @@ The following aspects of a language must be kept in mind while using it:
 - Dicts can't be join with '+'.
 - Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
 
-###### CLASSES AND OBJECTS -------------</br>
-**The concept of OOP allows us to model real world things using code**</br>
-**Every object has attributes like (color, height, weight) which are object variables**</br>
-**Every object has abilities like (walk, talk, eat) which are object functions**</br>
-**You can't access this value directly because it is private**</br>
-**You can inherit all of the variables and methods from another class**</br>
-**Polymorphism allows use to refer to objects as their super class and the correct functions are called automatically**</br>
+#### CLASSES AND OBJECTS 
+The concept of OOP allows us to model real world things using code.</br>
+Every object has attributes like (color, height, weight) which are object variables.</br>
+Every object has abilities like (walk, talk, eat) which are object functions.</br>
+You can't access this value directly because it is private.</br>
+You can inherit all of the variables and methods from another class.</br>
+Polymorphism allows use to refer to objects as their super class and the correct functions are called automatically.</br>
 
 ***********************************
 ### *Ruby*
