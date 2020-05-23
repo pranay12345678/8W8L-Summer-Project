@@ -58,6 +58,7 @@ Polymorphism allows use to refer to objects as their super class and the correct
 ***********************************
 ### *Ruby*
 
+
 ************************************
 ### *Haskell*
 ***About the language*** </br>Haskell is a purely Functional programming language with inferred, strong and static type discipline.
@@ -87,7 +88,7 @@ Following are the tasks given till now:
 ### Link to Repositories of the Team Members
 - Kartikeya Gupta: https://github.com/kartikcode/8W8L
 - Harish Adsule  : https://github.com/harishss3/8l8w
-
+- Pranay Agarwal : https://github.com/pranay12345678/8lang.git
 ************************************
 ### Contributed by: </br>
 - [Harish Adsule](https://github.com/harishss3)
