@@ -86,9 +86,11 @@ Following are the tasks given till now:
 ************************************
 ### Link to Repositories of the Team Members
 - Kartikeya Gupta: https://github.com/kartikcode/8W8L
+- Harish Adsule  : https://github.com/harishss3/8l8w
 
 ************************************
 ### Contributed by: </br>
 - [Harish Adsule](https://github.com/harishss3)
 - [Kartikeya Gupta](https://github.com/kartikcode)
+- [Tej Prakash](https://github.com/tej4826)
 
